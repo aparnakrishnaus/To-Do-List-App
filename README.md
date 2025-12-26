@@ -6,7 +6,7 @@ A responsive to-do list application designed to help users manage daily tasks ef
  https://todobuddylist.netlify.app/
 
 ## GitHub Repository
- https://github.com/aparnasukumaran/To-Do-List-App
+ https://github.com/aparnakrishnaus/To-Do-List-App
 
 ## Features
 - Create, edit, and delete daily tasks
