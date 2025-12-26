@@ -32,5 +32,5 @@ Frontend / Static Website
 ## Purpose of the Project
 This project was created to practice JavaScript fundamentals and UI design by building a functional and motivational task management application.
 
-## 🙋‍♂️ Author
+## Author
 Aparna Krishna u s
