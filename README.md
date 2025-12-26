@@ -1,4 +1,4 @@
-# To-Do List App - Task Management Web App
+## To-Do List App - Task Management Web App
 
 A responsive to-do list application designed to help users manage daily tasks efficiently while staying motivated with inspirational quotes and theme customization.
 
